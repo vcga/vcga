@@ -315,6 +315,6 @@
 
 <h3>V-C Diode Coupling</h3>
 
-<p>V-C (voltage-to-current) diode coupling circuit consist of three serialized silicon diodes on each side 1ST-stage driver, with each diode assumed to have 0.6V ~ 0.7V junction voltage. Each side of V-C diode coupling circuit will function as a pre-reverse bias for <code>Q_DRV1*</code> bases, pre-configures the early-reverse-bias-voltage into 1.8V ~ 2.1V; It mimics the <code>V_A_INPUT</code> amplitude changes reversely, prevent the <code>V_A_INPUT</code> source direct-current flow, and trigger the current change of <code>I_DRV_REF*</code>. By the function of V-C diode coupling circuit, the amplified current-changes is based the current changes of <code>I_DRV_REF*</code>.</p>
+<p>V-C (voltage-to-current) diode coupling circuit consist of three serialized silicon diodes on each side of 1ST-stage driver input, with each diode assumed to have 0.6V ~ 0.7V junction voltage. The coupling-functions of V-C diode coupling circuit are to mimic the <code>V_A_INPUT</code> amplitude changes reversely, prevent the <code>V_A_INPUT</code> source direct-current flow, and trigger the current change of <code>I_DRV_REF*</code>. By the function of V-C diode coupling circuit, the amplified current-changes is based the current changes of <code>I_DRV_REF*</code>. Each side of V-C diode coupling circuit will also function as a pre-reverse bias for <code>Q_DRV1*</code> bases, to pre-configure the early-reverse-bias-voltage into 1.8V ~ 2.1V.  </p>
 </body>
 </html>
