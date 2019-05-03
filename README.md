@@ -49,7 +49,7 @@ DOCUMENTATION & FORMULA
 
 Documentation is available in web-browser viewable HTML format, can be found
 within the `docs` folder and also available online as web pages at
-<https://vcga.github.io/guides/index.html>
+<https://vcga.github.io/vcga/guides/index.html>
 
 LICENSE
 -------
