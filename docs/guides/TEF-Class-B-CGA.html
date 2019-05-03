@@ -269,7 +269,7 @@
 
 <p>As shown in <strong>Figure 1</strong>, 1ST-stage driver amplifier designed as a single transistor EF current-gain amplifier with side-to-side internal loader as <code>R_DRV1_LOAD</code>. <code>Q_DRV1*</code> will have high impedance, <code>Z(Q_DRV1)</code>, upon the amplification reaches the smaller amplitude or in idle-alike state. <code>R_DRV2_LOAD</code> also functions as side-to-side static reverse bias for both <code>Q_DRV2(+)</code> and <code>Q_DRV2(-)</code> of 2ND-stage driver with stationer voltage, <code>V(R_DRV2_LOAD)</code>, approximately at 1V.</p>
 
-<p>1ST-stage driver amplifier bias-voltage configuration controlled by side-to-side current-sources as forward-bias controllers, <code>I_DRV_REF(+)</code> and <code>I_DRV_REF(-)</code>, working with a bias-servo current-sources, <code>I_BIAS_SERVO</code>. Each of forward-bias current-source circuit will have idle-alike state impedance, <code>R(I_DRV_REF)</code>, that depended to the idle-alike state <code>Q_DRV1*</code> emitter-current, <code>IE(Q_DRV2)</code>.</p>
+<p>1ST-stage driver amplifier bias-voltage configuration controlled by side-to-side current-sources as forward-bias controllers, <code>I_DRV_REF(+)</code> and <code>I_DRV_REF(-)</code>, working with a bias-servo current-sources, <code>I_BIAS_SERVO</code>. Each of forward-bias current-source circuit will have idle-alike state impedance, <code>Z(I_DRV_REF)</code>, that depended to the idle-alike state <code>Q_DRV1*</code> emitter-current, <code>IE(Q_DRV2)</code>.</p>
 
 <p>Idle-alike state impedance of <code>Q_DRV1*</code>, <code>ZA(Q_DRV1)</code>, determined as follow:  </p>
 
@@ -296,7 +296,7 @@
 <p>Idle-alike state impedance of forward-bias current-source <code>I_DRV_REF</code>, <code>Z(I_DRV_REF)</code>, determined as follow:  </p>
 
 <blockquote>
-  <p><strong><code>R(I_DRV_REF)</code> = ((<code>VCC</code> * 2) - <code>VBEA(Q_DRV1)</code>) / (<code>IE(Q_DRV1)</code> / <code>VCEA(Q_DRV1)</code>)</strong>  </p>
+  <p><strong><code>Z(I_DRV_REF)</code> = ((<code>VCC</code> * 2) - <code>VBEA(Q_DRV1)</code>) / (<code>IE(Q_DRV1)</code> / <code>VCEA(Q_DRV1)</code>)</strong>  </p>
 
 <p>or:</p>
 
