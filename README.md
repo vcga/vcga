@@ -20,7 +20,7 @@ SOURCE DOWNLOAD
 ---------------
 
 Development source and schematic examples of VCGA can be downloaded via GITHUB
-at <https://vcga.github.io/> on your personal computer via the desktop GIT
+at <https://github.com/vcga/vcga> on your personal computer via the desktop GIT
 program tool or command line interface based GIT tool:
 
     git clone https://github.com/vcga/vcga.git
