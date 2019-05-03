@@ -12,7 +12,9 @@ ABOUT
 -----
 
 VCGA is platform of audio power amplifier core circuit technology with BJT
-(Bipolar Junction Transistor) as the base implementation.
+(Bipolar Junction Transistor) as the base implementation, a sub-platform of
+[MATRIX 1.4 III](https://github.com/kicader/MATRIX-1.4-III). Both VCGA and
+MATRIX 1.4 III shares the principle, but of course with some differences.
 
 SOURCE DOWNLOAD
 ---------------
