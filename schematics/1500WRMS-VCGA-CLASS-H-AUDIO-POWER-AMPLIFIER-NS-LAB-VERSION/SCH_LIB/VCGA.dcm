@@ -66,6 +66,11 @@ D 250V DC max. operating voltage 40 watts low frequency power amplifier NPN Bipo
 K NPN, BJT, Transistor
 $ENDCMP
 #
+$CMP LDR_OPTO_COUPLER
+D Fixed resistor
+K resistor
+$ENDCMP
+#
 $CMP MJE15032
 D 250V DC max. operating voltage 40 watts low frequency power amplifier NPN Bipolar Junction Transistor
 K NPN, BJT, Transistor
@@ -94,6 +99,11 @@ $ENDCMP
 $CMP MURF1560
 D Fast recovery rectifier diode (max. BV = 100V)
 K Diode
+$ENDCMP
+#
+$CMP OPTO_COUPLER
+D Fixed resistor
+K resistor
 $ENDCMP
 #
 $CMP Q_NPN
