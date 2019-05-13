@@ -11,6 +11,11 @@ High Rail Power Supply Voltage: 120V DC precision dual-supply
 Low Rail Power Supply Voltage: 42V DC precision dual-supply  
 Input: 1V RMS nominal, 10V RMS maximum  
 
+Features:
+- Stepper Frequency Limiter to prevent distortion of high frequency amplification
+- Soft Signal Limiter
+- Fault / Short & Open Circuit Protection
+
 ACKNOWLEDGMENT
 --------------
 
