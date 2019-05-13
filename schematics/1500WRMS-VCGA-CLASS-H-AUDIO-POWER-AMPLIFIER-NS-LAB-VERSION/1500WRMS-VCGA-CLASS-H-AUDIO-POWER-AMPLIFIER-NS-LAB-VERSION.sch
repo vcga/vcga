@@ -6,7 +6,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "1500W RMS Class-H Audio Power Amplifier Core Circuit"
-Date "2019-05-08"
+Date "2019-05-13"
 Rev ""
 Comp "Copyright (C) Heru Himawan Tejo Laksono. All rights reserved."
 Comment1 "Homepage: https://vcga.github.io/vcga/"
