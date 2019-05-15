@@ -1,4 +1,4 @@
-update=Sun 12 May 2019 05:10:29 PM UTC
+update=Mon 13 May 2019 02:38:16 PM UTC
 version=1
 last_client=kicad
 [general]
@@ -27,7 +27,7 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=1500WRMS-VCGA-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=2.54
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
@@ -38,7 +38,7 @@ MinViaDrill=0.3
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
-TrackWidth1=0.635
+TrackWidth1=0.762
 ViaDiameter1=0.889
 ViaDrill1=0.508
 dPairWidth1=0.254
