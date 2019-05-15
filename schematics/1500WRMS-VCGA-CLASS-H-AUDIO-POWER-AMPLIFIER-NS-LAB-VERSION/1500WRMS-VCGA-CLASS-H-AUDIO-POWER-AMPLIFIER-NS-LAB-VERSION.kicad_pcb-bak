@@ -1491,7 +1491,7 @@
       (net 111 /M_FPODO))
   )
 
-  (module VCGA:DIODE_AXIAL_SMALL_GE (layer F.Cu) (tedit 5CD97B0B) (tstamp 5CD2CF96)
+  (module VCGA:DIODE_AXIAL_SMALL_GE (layer F.Cu) (tedit 5CD97B0B) (tstamp 5CDC5452)
     (at 54.61 82.55 180)
     (path /70A6F77D)
     (fp_text reference D706 (at 0 0 180) (layer F.SilkS)
@@ -3662,7 +3662,7 @@
       (net 2 0))
   )
 
-  (module VCGA:RESISTOR_AXIAL_0.25W (layer F.Cu) (tedit 5CD85228) (tstamp 5CD2D169)
+  (module VCGA:RESISTOR_AXIAL_0.25W (layer F.Cu) (tedit 5CD85228) (tstamp 5CDC54A9)
     (at 54.61 86.36 180)
     (path /70E9D342)
     (fp_text reference R709 (at 0 0 180) (layer F.SilkS)
@@ -3962,7 +3962,7 @@
       (net 3 /M_REF))
   )
 
-  (module VCGA:RESISTOR_AXIAL_0.25W (layer F.Cu) (tedit 5CD85228) (tstamp 5CD85326)
+  (module VCGA:RESISTOR_AXIAL_0.25W (layer F.Cu) (tedit 5CD85228) (tstamp 5CDC540C)
     (at -15.24 80.01 270)
     (path /5DBDA220)
     (fp_text reference R4012 (at 0 0 270) (layer F.SilkS)
