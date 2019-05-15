@@ -1,12 +1,12 @@
 EESchema Schematic File Version 4
-LIBS:ANALYSIS-1500WRMS-VCGA-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION-cache
+LIBS:1500WRMS-VCGA-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION-cache
 EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 2
+Sheet 1 1
 Title "1500W RMS Class-H Audio Power Amplifier Core Circuit"
-Date "2019-05-13"
+Date "2019-05-15"
 Rev ""
 Comp "Copyright (C) Heru Himawan Tejo Laksono. All rights reserved."
 Comment1 "Homepage: https://vcga.github.io/vcga/"
@@ -5104,7 +5104,7 @@ Wire Wire Line
 Text GLabel 14200 1750 2    50   BiDi ~ 0
 M_VSWON
 Text Notes 15250 9600 0    50   ~ 0
-To SPEAKER\nTERMINAL (+)
+To OUTPUT\nTERMINAL (+)
 Wire Notes Line
 	15200 9400 15200 9650
 Wire Notes Line
@@ -6443,6 +6443,7 @@ F 0 "SR701" H 15500 8950 50  0000 L CNN
 F 1 "sw1 ON" H 15480 8912 40  0001 L CNN
 F 2 "VCGA:RL-SLA24" H 15200 8950 40  0001 C CNN
 F 3 "" H 15200 8950 40  0001 C CNN
+F 4 "SLA-24VDC-S L-C" H 15600 9100 35  0000 C CNB "Specification"
 	1    15200 8950
 	1    0    0    -1  
 $EndComp

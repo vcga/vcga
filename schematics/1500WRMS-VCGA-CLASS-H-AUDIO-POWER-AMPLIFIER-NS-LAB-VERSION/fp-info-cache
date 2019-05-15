@@ -1,4 +1,4 @@
-403654233216289
+402169575429289
 Package_DIP
 DIP-4_W7.62mm
 4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
@@ -1770,13 +1770,6 @@ RESISTOR_ROUND_TRIMPOT_STD
 0
 3
 3
-VCGA
-RL-SLA24
-
-
-0
-6
-5
 VCGA
 TO-92-EBC
 
