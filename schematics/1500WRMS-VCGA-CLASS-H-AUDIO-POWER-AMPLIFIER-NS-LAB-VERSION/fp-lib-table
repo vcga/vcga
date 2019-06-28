@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name VCGA)(type KiCad)(uri ${KIPRJMOD}/PCB_LIB/VCGA.pretty)(options "")(descr ""))
-)
